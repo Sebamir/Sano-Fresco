@@ -1,4 +1,4 @@
-# Sano & Fresco Analysis with SQL,Python and Power BI
+# Sano & Fresco Analysis with SQL, Python and Power BI
 
 ## Overview 
 
