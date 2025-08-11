@@ -44,5 +44,5 @@ The dataset includes information such as:
 ##  Methodology
 1. Exploratory Data Analysis (EDA)
 2. Insight survey
-3. Data processing using python
+3. Data processing using Python for the implementation of a product recommendation model
 4. DashBoard creation using PowerBI
